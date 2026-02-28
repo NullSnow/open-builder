@@ -30,6 +30,7 @@ export function ChatHeader({
       <span className="text-sm font-medium truncate px-2 flex-1 text-center">
         {title}
       </span>
+      <div>
         <Button
           variant="ghost"
           size="icon"
